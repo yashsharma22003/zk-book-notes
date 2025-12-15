@@ -67,4 +67,4 @@ If the map $\phi$ is **easy to compute** but **hard to invert** (like Discrete L
 The article's main point is to prepare you for this statement about **Elliptic Curves**:
 > "Elliptic curve points in a finite field under addition are a finite cyclic group, and **integers under addition are homomorphic to this group**."
 
-This means even if Elliptic Curve math looks weird, you can treat it just like "adding integers" but with a different notation. You already know how it behaves because you understand homomorphisms.
+This means even if Elliptic Curve math looks weird, you can treat it just like "adding integers" but with a different notation. You already know how it behaves because you understand homomorphisms.. 

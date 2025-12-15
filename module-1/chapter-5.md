@@ -82,4 +82,4 @@ We can classify a set $S$ with a binary operator $\cdot$ into the following cate
     * **Associative:** Order of operations doesn't matter (parentheses).
     * **Identity:** "Zero" element.
     * **Inverse:** "Negative" element.
-    * **Abelian:** Order of operands doesn't matter ($a+b=b+a$).
+    * **Abelian:** Order of operands doesn't matter ($a+b=b+a$). 

@@ -66,4 +66,4 @@ A binary operator is **closed** if the result is always in the original set.
 * **Not Closed Example:** Division on Integers. $1 / 2 = 0.5$ (0.5 is not an integer).
 
 **Why this matters for ZK:**
-In Elliptic Curve Cryptography and ZK proofs, we rely on **Groups**. A Group is simply a Set combined with a **Closed Binary Operator**. If you understand that operators are just "maps from pairs to single elements," the complex math of elliptic curve addition becomes much easier to grasp conceptually.
+In Elliptic Curve Cryptography and ZK proofs, we rely on **Groups**. A Group is simply a Set combined with a **Closed Binary Operator**. If you understand that operators are just "maps from pairs to single elements," the complex math of elliptic curve addition becomes much easier to grasp conceptually. 

@@ -82,4 +82,4 @@ $$\phi(x \cdot y) = \phi(x) \star \phi(y)$$
 
 ## 🧠 Why Programmers Should Care
 1.  **Cryptography:** Elliptic Curves (used in Bitcoin/Ethereum) are simply **Finite Cyclic Groups**. Understanding "Generators," "Inverses," and "Order" is mandatory for understanding why signatures and ZK proofs work.
-2.  **Abstraction:** It lets you reason about complex systems (like matrices or polynomials) using the same simple 4 rules.
+2.  **Abstraction:** It lets you reason about complex systems (like matrices or polynomials) using the same simple 4 rules. 
